@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.signup-section{
+    --bs-gutter-x: 0;
+.bg-section {
+    height: 100vh;
+    background-color: #EB5757;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+        width: 550px;
+        height: 570px;
+    }
+}
+.form-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}
